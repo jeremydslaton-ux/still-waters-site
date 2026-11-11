@@ -1,8 +1,8 @@
 {
   "minVersion": 5,
   "latestVersion": 5,
-  "min": "1.9.2",
-  "latest": "1.9.2",
+  "min": "1.10.0",
+  "latest": "1.10.0",
   "message": "A new version of Still Waters is available with important fixes. Please update to keep playing.",
   "ch2": "2026-12-28"
 }
